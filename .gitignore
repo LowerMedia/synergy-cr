@@ -1,0 +1,7 @@
+
+# ignore mac files
+.DS_Store
+
+# ignore install specific files
+.wp-config
+.htaccess
